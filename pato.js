@@ -75,9 +75,9 @@ hit_today = []
 blocked = []
 banChats = false
 offline = false
-targetpc = '573212523313'
-owner = '573212523313'
-fake = '𝐁𝐎𝐓ꦼ𝐋𝐄𝐍𝐥'
+targetpc = '558893827804'
+owner = '558893827804'
+fake = '𝐁𝐎𝐓ꦼDiany'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -247,7 +247,7 @@ turbo.on('chat-update', async (mek) => {
         
 		mess = {
 			wait: '🛠️𝒆𝒔𝒑𝒆𝒓𝒂, 𝒆𝒏 𝒑𝒓𝒐𝒄𝒆𝒔𝒐 𝒅𝒆 𝒄𝒓𝒆𝒂𝒄𝒊𝒐𝒏, 90%',
-			success: 'Comando con  éxito 😏',
+			success: 'Comando com éxito 😏',
 			wrongFormat: '📝𝒆𝒔𝒄𝒓𝒊𝒃𝒆 𝒃𝒊𝒆𝒏 𝒆𝒍 𝒇𝒐𝒓𝒎𝒂𝒕𝒐',
 			error: {
 				stick: 'lo siento 🚮 no se pudo convertir a sticker',
